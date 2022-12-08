@@ -4,7 +4,7 @@ Contains an example function written in Lua to receive a Domo alert webhook and 
 
 1. Create an alert on a Domo card or dataset
 1. Create an account in [Webhook Relay](https://webhookrelay.com/)
-1. Create a Webhook Relay function using the Lua code snippet in this repository
+1. Create a Webhook Relay function using the Lua [code snippet](https://github.com/ikathegreat/DomoToTeamsWebhookRelay/blob/main/DomoToTeamsWebhookRelay.lua)
 1. Create a Webhook Relay request forwarder and run the function on the incoming request
 1. Configure a webhook connector in the desired Microsoft Teams channel and copy the URL
 1. Paste the Teams webhook URL into the Webhook Relay forwarding destination
