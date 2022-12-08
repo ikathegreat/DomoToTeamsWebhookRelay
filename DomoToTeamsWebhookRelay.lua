@@ -38,7 +38,7 @@ local new_payload =
           targets= {
               {
                   os= "default",
-                  uri= "https://cambrio.domo.com/page/1205693031"
+                  uri= "https://xxx.domo.com/page/xxx"
               } 
             }          
       }    
